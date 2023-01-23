@@ -1,0 +1,120 @@
+body {
+  font-family: -ui, -apsystemple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:rgba(142, 188, 227, 0.604);
+}
+
+header {
+  background-color: rgb(32, 40, 105);
+  color:aliceblue;
+  padding: 125px;
+  display: flex;
+  align-items: center;
+}
+
+#logo {
+  max-width: 200px;
+  max-height: 200px;
+  margin-right: 15px;
+}
+
+header h1 {
+  margin: 0;
+  flex-grow: 1;
+}
+
+header nav {
+  margin-left: auto;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+header nav ul li {
+  color: aliceblue;
+  margin-right: 25px;
+  border-style: solid;
+}
+
+li a:hover {
+  color: rgb(184, 12, 12);
+}
+
+li a {
+  color: aliceblue;
+  font-size:larger;
+}
+
+#about {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#projects {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#contact {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#Leerdoelen {
+  max-width: 650px;
+  max-height: 650px;
+}
+
+#HLeerdoel {
+  margin-left: 60px;
+  margin-bottom: 40px;
+}
+
+#Section {
+ margin-left: 60px;
+}
+
+p {
+  max-width: 600px;
+}
+
+h1 {
+  margin-right: 20px;
+  max-width: 300px;
+  max-height: 300px;
+  min-width: 170px;
+  min-height: 50px;
+}
+
+#linkedin {
+  color: black;
+  font-size: medium
+}
+
+#footer {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+h3{ 
+  margin-top: 15px;
+}
+
+#mijn-foto {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+#invoeg {
+  max-height: 400px;
+  max-width: 400px;
+}
